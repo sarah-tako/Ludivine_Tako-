@@ -1,4 +1,5 @@
-# Ludivine TAKO | Future Data Analyste & Développeuse Polyvalente
+# Ludivine TAKO | 
+Data Analyste & Développeuse Polyvalente
 
 Étudiante en **Master "Manager des solutions digitales et data"** et passionnée par l'analyse et la valorisation des données, je combine une double compétence en **développement (web/mobile)** et en **traitement/visualisation de données**.
 
