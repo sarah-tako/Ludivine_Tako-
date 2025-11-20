@@ -27,7 +27,7 @@ Ce projet illustre ma capacité à travailler sur un pipeline de données comple
 * **Préparation de Données :** Nettoyage, transformation et enrichissement de données à l'aide de **PySpark** et **Pandas**.
 * **Stockage & Modélisation :** Stockage et modélisation des données dans une base analytique (Hive/PostgreSQL / BigQuery).
 
-**[Lien vers le Répertoire GitHub du Projet]**
+**[https://github.com/sarah-tako/gestion_de-_maintenance]**
 
 ### 2. Développement d'une Application de Gestion de Courriel
 
@@ -36,7 +36,7 @@ Une application complète démontrant mes compétences en développement Full St
 * **Frontend :** Interface interactive et responsive développée en **JavaScript, HTML, et CSS**.
 * **Technologies Utilisées :** Figma, PHP, MySQL, Postman, JavaScript, HTML, CSS.
 
-**[Lien vers le Répertoire GitHub du Projet]**
+**[https://github.com/sarah-tako/gestion_de-_maintenance]**
 
 ---
 
@@ -48,7 +48,7 @@ Une application complète démontrant mes compétences en développement Full St
 * **Mission :** Développer une application de gestion de tâches.
 * **Technologies :** Spring Boot, PostgreSQL, Postman, Utilisation de **Git** et **GitHub** pour la gestion de version.
 
-### [cite_start]Informatique Industrielle et Automatisme (Stage) 
+### Informatique Industrielle et Automatisme (Stage) 
 * **Période :** Juin 2022 à Août 2022
 * **Entreprise :** GRAPHIC SYSTEM, Douala 
 * **Mission :** Programmation d'un automate industrielle basée sur l'analyse approfondie des données de pannes et réalisation d'un système de comptage sur la pluie.
